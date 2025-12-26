@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+langgraph
+langchain-groq
+pydantic
+python-dotenv
+python-multipart
+pypdf
+streamlit
+requests
