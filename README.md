@@ -1,4 +1,4 @@
-# hireME
+# HireME
 
 AI-powered mock interview platform that conducts realistic, context-aware technical interviews based on a candidate's resume. Built with FastAPI, LangGraph, and Streamlit to deliver interactive interviews, real-time feedback, and adaptive question flows.
 
